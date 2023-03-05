@@ -1,4 +1,7 @@
-<h3 align="center">Hello World! My name is Adarsh Kumar, and I'm a passionate full stack developer with a deep interest in computer science and technology. I love working with a variety of programming languages and frameworks, including Javascipt, Python, Java, C/C++, React.Js, Node.Js, socket.io, Express.js, etc.</h3>
+<h2 align="center">Hello World! I am Adarsh Kumar</h2>
+<h4 align="center">
+I'm a passionate full stack developer with a deep interest in computer science and technology. I love working with a variety of programming languages and frameworks, including Javascipt, Python, Java, C/C++, React.Js, Node.Js, socket.io, Express.js, etc.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkumar714&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkumar714" /> </p>
 
