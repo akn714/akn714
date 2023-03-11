@@ -28,4 +28,4 @@ I'm a passionate full stack developer with a deep interest in computer science a
 
 <p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar714&count_private=true&layout=compact&theme=highcontrast" width="335"></a></p>
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar714&theme=dark&background=000000" alt="madhav-mknc" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar714&theme=dark&background=000000" alt="adarshkumar714" /></p>
