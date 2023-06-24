@@ -1,5 +1,5 @@
 <h2 align="center">Hello World! I am Adarsh Kumar</h2>
-<h4 align="center">
+<h4 align="center" style="font-size:20x; font-family: revert;">
 I'm a passionate full stack developer with a deep interest in computer science and technology. I love working with a variety of programming languages and frameworks, including Javascipt, Python, Java, C/C++, React.Js, Node.Js, socket.io, Express.js, etc.
 </h4>
 
