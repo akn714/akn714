@@ -9,7 +9,7 @@ I'm a passionate full stack developer with a deep interest in computer science a
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- I’m currently learning **socket.io**
+- I’m currently learning **backend**
 
 - I’m looking to collaborate on **frontend and backend development.**
 
