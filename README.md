@@ -3,6 +3,7 @@
 ## About Me
 I'm a passionate full stack developer with a deep interest in computer science and technology. I love working with a variety of programming languages and frameworks, including JavaScript, Python, Java, C/C++, React.js, Node.js, socket.io, and Express.js.
 
+![Profile Views](https://komarev.com/ghpvc/?username=akn714&label=Profile%20views&color=0e75b6&style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=adarshkumar714&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Contact Me
