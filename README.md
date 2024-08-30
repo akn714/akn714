@@ -7,7 +7,7 @@ I'm a passionate full stack developer with a deep interest in computer science a
 ![Profile Views](https://komarev.com/ghpvc/?username=adarshkumar714&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Contact Me
-- **Learning:** Currently learning backend development.
+- **Learning:** Currently learning Machine Learning and preparing for Internships and Placements.
 - **Collaboration:** Interested in collaborating on frontend and backend development projects.
 - **Email:** adarshkumar20012704@gmail.com
 
