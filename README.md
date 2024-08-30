@@ -36,6 +36,9 @@ I'm a passionate full stack developer with a deep interest in computer science a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png?20230731013808" alt="OpenAI" height="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hcQfkb6BkyP0NPmI0gzetgHaBk%26pid%3DApi&f=1&ipt=f638bdeb15019cf9a4c2109bed4bda2a6510a2b21156aa4874c22903122e8730&ipo=images" alt="Pinecone VectorDB" height="40"/>
+  
 </p>
 
 ## GitHub Statistics
